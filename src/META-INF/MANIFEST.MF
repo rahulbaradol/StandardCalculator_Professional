@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: App_Standard_Calculator_Professional.Standard_Calculator_P
+ rofessional_MC
+
